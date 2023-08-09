@@ -4,7 +4,7 @@ I'm an experienced Cloud Architect from Israel 🇮🇱 with a deep technologica
 I have a proven track record of planning and deploying software solutions and providing developers with the tools needed for building modern applications. 
 
 - 🐶 My pet projects:
-  - [Terraform textual UI](https://github.com/idoavrah/terraform-tui)
+  - [tftui - the Terraform textual UI](https://github.com/idoavrah/terraform-tui)
   - [MLB gamebot](https://github.com/idoavrah/mlbgamebot), also on [Telegram](https://t.me/mlbgameupdates)
   - [Wolt Recap](https://github.com/idoavrah/terraform-tui) (offline)
 
