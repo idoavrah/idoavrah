@@ -8,7 +8,7 @@ I have a proven track record of planning and deploying software solutions and pr
   - [DataWolt](https://github.com/idoavrah/datawolt)
   - [MLB gamebot](https://github.com/idoavrah/mlbgamebot), also on [Telegram](https://t.me/mlbgameupdates)
 
-- 🧑‍🎓 I’m currently learning all things cloud (mostly Google cloud these days)
+- 🧑‍🎓 I’m currently learning all things cloud (mostly AWS and Google Cloud these days)
 
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/idoavraham)
