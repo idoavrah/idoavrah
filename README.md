@@ -5,8 +5,8 @@ I have a proven track record of planning and deploying software solutions and pr
 
 - 🐶 My pet projects:
   - [tftui - the Terraform textual UI](https://github.com/idoavrah/terraform-tui)
+  - [DataWolt](https://github.com/idoavrah/datawolt)
   - [MLB gamebot](https://github.com/idoavrah/mlbgamebot), also on [Telegram](https://t.me/mlbgameupdates)
-  - [Wolt Recap](https://github.com/idoavrah/terraform-tui) (offline)
 
 - 🧑‍🎓 I’m currently learning all things cloud (mostly Google cloud these days)
 
